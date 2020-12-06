@@ -1,3 +1,2 @@
 <F2>Zmiana w pliku.
 inna wersja tego pliku nadpisze poprzednia.
-Dodanie nowej, eksperymentalnej funkcjonalnosci.
